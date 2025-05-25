@@ -1,5 +1,0 @@
-body { font-family: Arial, sans-serif; }
-canvas { max-width: 100%; }
-@media (max-width: 768px) {
-    canvas { width: 100%; }
-}
